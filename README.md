@@ -1,6 +1,6 @@
 # Quarkus Reproducer for JsonNode serialization issue
 
-This example is not functional and is meant to reproduce Issue https://github.com/quarkusio/quarkus/issues/12776
+This example is not functional and is meant to reproduce Issue https://github.com/quarkusio/quarkus/issues/13043
 
 #### Version
 
